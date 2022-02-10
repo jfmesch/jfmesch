@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jfmesch
 - 👀 I’m interested in learning more about GitHub
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning all there is to know
 - 💞️ I’m looking to collaborate on ways to make tech more user friendly
 - 📫 How to reach me ...
 
